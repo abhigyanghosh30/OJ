@@ -36,7 +36,7 @@ int main()
 					break;
 			}
 		}
-		if(c==0)
+		if(sum<k)
 			printf("-1\n");
 		else 
 			printf("%d\n",c);
